@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=0 python -u main.py \
 Notice: 
 The DF version code has some differences with NSP code so you need make a new folder for it. and pls customize the dataset directoty to your file folder and change the --checkpoint and log name when you run different hyper-parameters.
 
-You need to try:
---gamma from （0， 1）
---alpha_beta_schedule in 'cosb,lina,linb,palpha'
---n_steps from 100-1000, or bigger (but it will take more time to train)
+You need to try:\
+--gamma from （0， 1）\
+--alpha_beta_schedule in 'cosb,lina,linb,palpha'\
+--n_steps from 100-1000, or bigger (but it will take more time to train)\
