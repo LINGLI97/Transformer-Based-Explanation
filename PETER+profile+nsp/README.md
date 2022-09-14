@@ -1,5 +1,6 @@
 Download dataset from google drive:
 https://drive.google.com/file/d/1Cgn-42MJD-p6JNiJ0HHpuL_nyf7MEjrH/view?usp=sharing
+
 Then you can run the cmd: 
 CUDA_VISIBLE_DEVICES=0 python -u main.py \
 --data_path ./TripAdvisor/reviews_profile_index.pickle \
