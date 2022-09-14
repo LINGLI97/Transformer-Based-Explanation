@@ -1,4 +1,4 @@
-dataset is same as you downloaded in NSP file.
+dataset is same as you downloaded in NSP file.\
 Then you can run the cmd: 
 
 CUDA_VISIBLE_DEVICES=0 python -u main.py \
