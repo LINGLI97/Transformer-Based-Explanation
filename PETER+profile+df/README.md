@@ -33,4 +33,4 @@ The DF version code has some differences with NSP code so you need make a new fo
 You need to try:\
 --gamma from （0， 1）\
 --alpha_beta_schedule in 'cosb,lina,linb,palpha'\
---n_steps from 100-1000, or bigger (but it will take more time to train)\
+--n_steps from 100-1000, or bigger (but it will take more time to train)
